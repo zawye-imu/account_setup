@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <report id="report_test_001"
+            string="Test Report 001"
+            model="sale.order"
+            report_type="qweb-pdf"
+            name="sale_order.report_test"
+            file="sale_order.report_test"/>
+    
+</odoo>
